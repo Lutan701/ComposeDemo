@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BOH-XX</string>
+
+    <string name="main_tab_home">Home</string>
+    <string name="main_tab_test">Test</string>
+    <string name="main_tab_qc">QC</string>
+    <string name="main_tab_setting">Setting</string>
+    <string name="main_tab_maintenance">Maintenance</string>
+
+</resources>
